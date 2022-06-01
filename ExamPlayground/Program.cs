@@ -71,8 +71,6 @@ class MainClass {
         return titles;
     }
 
-    private 
-
     static void Main() {
         var input = Console.ReadLine();
 
