@@ -59,10 +59,11 @@ class MainClass {
         // filter all the fetched articles
         var titles = articles
                          .Where(x =>
-                            (!string.IsNullOrEmpty(x.Title) || !string.IsNullOrEmpty(x.Story_Title))
-                            && x.Num_Comments != null)
+                            !string.IsNullOrEmpty(x.Title) 
+                            || !string.IsNullOrEmpty(x.Story_Title)
+                         )
                          .OrderByDescending(x => x.Num_Comments)
-                         .ThenByDescending(x => new { x.Title, x.Story_Title })
+                         .ThenByDescending(x => string.IsNullOrEmpty(x.Title) ?  x.Story_ID : x.Title)
                          .Take(limit)
                          .Select(x => x.Title ?? x.Story_Title)
                          .ToArray();
