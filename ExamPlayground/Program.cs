@@ -63,7 +63,7 @@ class MainClass {
                             || !string.IsNullOrEmpty(x.Story_Title)
                          )
                          .OrderByDescending(x => x.Num_Comments)
-                         .ThenByDescending(x => string.IsNullOrEmpty(x.Title) ?  x.Story_ID : x.Title)
+                         .ThenByDescending(x => string.IsNullOrEmpty(x.Title) ?  x.Story_Title : x.Title)
                          .Take(limit)
                          .Select(x => x.Title ?? x.Story_Title)
                          .ToArray();
