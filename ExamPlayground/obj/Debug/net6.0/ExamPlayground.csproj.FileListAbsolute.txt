@@ -1,0 +1,17 @@
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.csproj.AssemblyReference.cache
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.AssemblyInfoInputs.cache
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.AssemblyInfo.cs
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.csproj.CoreCompileInputs.cache
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ExamPlayground.exe
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ExamPlayground.deps.json
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ExamPlayground.runtimeconfig.json
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ExamPlayground.dll
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ref\ExamPlayground.dll
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\ExamPlayground.pdb
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.dll
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ref\ExamPlayground.dll
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.pdb
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.genruntimeconfig.cache
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jvdag\source\repos\ExamPlayground\ExamPlayground\obj\Debug\net6.0\ExamPlayground.csproj.CopyComplete
